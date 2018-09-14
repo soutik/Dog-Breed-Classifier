@@ -1,3 +1,5 @@
-dogImages/
-lfw/
+dogImages/*
+lfw/*
 *.pyc
+.DS_Store
+bottleneck_features/*
